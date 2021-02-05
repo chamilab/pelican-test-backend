@@ -1,0 +1,64 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\logs\\.8f8d475cc7120dafb741559dce908a39470ae785-audit.json",
+    "files": [
+        {
+            "date": 1612500562553,
+            "name": "logs\\logs\\application-2021-02-05-10.log",
+            "hash": "456b56e3944c2c2c5fe9546505c66363"
+        },
+        {
+            "date": 1612504733483,
+            "name": "logs\\logs\\application-2021-02-05-11.log",
+            "hash": "2f7d82898b0920992a3c5ca3385ee29c"
+        },
+        {
+            "date": 1612506869676,
+            "name": "logs\\logs\\application-2021-02-05-12.log",
+            "hash": "2149cf66d3473ae7d729160619e1272a"
+        },
+        {
+            "date": 1612510246395,
+            "name": "logs\\logs\\application-2021-02-05-13.log",
+            "hash": "4559712229f78d9d5fa3a5b68f4114cb"
+        },
+        {
+            "date": 1612514092681,
+            "name": "logs\\logs\\application-2021-02-05-14.log",
+            "hash": "930dbd7b9ea935aa497ee7cd4cfbc2cb"
+        },
+        {
+            "date": 1612537070841,
+            "name": "logs\\logs\\application-2021-02-05-20.log",
+            "hash": "87fe6ad2ec46a6ea5422be8eb8ad72d9"
+        },
+        {
+            "date": 1612539925935,
+            "name": "logs\\logs\\application-2021-02-05-21.log",
+            "hash": "0fac9bfc31f8f69dcb8f6030b35cd35b"
+        },
+        {
+            "date": 1612543913889,
+            "name": "logs\\logs\\application-2021-02-05-22.log",
+            "hash": "d92bb324a81e1672f73f5a2ac07f0de3"
+        },
+        {
+            "date": 1612546237395,
+            "name": "logs\\logs\\application-2021-02-05-23.log",
+            "hash": "d0c1e0665cfebe91e25b61629f823a63"
+        },
+        {
+            "date": 1612550036971,
+            "name": "logs\\logs\\application-2021-02-06-00.log",
+            "hash": "54eeb83211f8e3a73bb4916122fb95d0"
+        },
+        {
+            "date": 1612553438735,
+            "name": "logs\\logs\\application-2021-02-06-01.log",
+            "hash": "fb85e2b4c2b0eaf83f5a0c124ca90fb5"
+        }
+    ]
+}

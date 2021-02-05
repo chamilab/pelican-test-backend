@@ -1,0 +1,102 @@
+{"message":"Task recived request. http://localhost:7075/todo/SaveTask","level":"info"}
+{"message":"Inside 'resource not found' handler , Req resource: http://localhost:7075/todo/SaveTask","level":"error"}
+{"message":"Task recived request. http://localhost:7075/todo/SaveTask","level":"info"}
+{"message":"saveTask POST,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"message":"Successfully saved TASK = 2","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"Task recived request. http://localhost:7075/todo/SaveTask","level":"info"}
+{"message":"saveTask POST,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"message":"Successfully saved TASK = 3","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/SaveTask","level":"info"}
+{"message":"saveTask POST,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"message":"Successfully saved TASK = 4","level":"info"}
+{"message":"Task SAVED SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCT * FROM task' at line 1","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCT * FROM tasks' at line 1","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCT * FROM tasks' at line 1","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELCT * FROM tasks' at line 1","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- ReferenceError: message is not defined","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- TypeError: message.get is not a function","level":"error"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- TypeError: message.get is not a function","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- TypeError: message.get is not a function","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- TypeError: message.get is not a function","level":"error"}
+{"message":"Running on http://0.0.0.0:7075","level":"info"}
+{"message":"Server started at 7075","level":"info"}
+{"message":"Task recived request. http://localhost:7075/todo/getTask","level":"info"}
+{"message":"Task Get,  called","level":"info"}
+{"level":"info","message":"Connection %d acquired"}
+{"level":"info","message":"Connection %d released"}
+{"message":"GOT Task SUCCESSFULLY...","level":"info"}
+{"level":"info","message":"Connection %d released"}
+{"message":"CANNOT GET Task :- TypeError: message.get is not a function","level":"error"}
